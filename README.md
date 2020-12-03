@@ -37,3 +37,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Step 2: Deployment
 [GitHub Pages](https://rickshev.github.io/Pet_Pals/)
+
+
+### Technologies Used
+* JavaScript * HTML * plot.ly
+* D3.js      * JSON * GitHub Pages
