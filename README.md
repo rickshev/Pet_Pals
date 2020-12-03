@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
+=======
+# Belly Button Biodiversity
+
+In this project, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
+>>>>>>> bbc22f966f6356562d34567d3310608c4612f466
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
@@ -18,8 +24,11 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` as the hovertext for the chart.
 
+<<<<<<< HEAD
   ![bar Chart](Images/hw01.png)
 
+=======
+>>>>>>> bbc22f966f6356562d34567d3310608c4612f466
 3. Create a bubble chart that displays each sample.
 
 * Use `otu_ids` for the x values.
@@ -32,12 +41,16 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` for the text values.
 
+<<<<<<< HEAD
 ![Bubble Chart](Images/bubble_chart.png)
 
+=======
+>>>>>>> bbc22f966f6356562d34567d3310608c4612f466
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
+<<<<<<< HEAD
 ![hw](Images/hw03.png)
 
 6. Update all of the plots any time that a new sample is selected.
@@ -77,3 +90,19 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 - - -
 
 © 2019 Trilogy Education Services
+=======
+6. Update all of the plots any time that a new sample is selected.
+
+
+## Step 2: Deployment
+[GitHub Pages](https://rickshev.github.io/Pet_Pals/)
+
+
+### Technologies Used
+* JavaScript
+* HTML
+* plot.ly
+* D3.js
+* JSON
+* GitHub Pages
+>>>>>>> bbc22f966f6356562d34567d3310608c4612f466
